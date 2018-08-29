@@ -6,6 +6,7 @@
  - Node.js, Express, MongoDB: API, 30 min: https://habr.com/company/ruvds/blog/321104/
  - Express Routing: http://expressjs.com/ru/guide/routing.html
  - Postman - APP for testing GET/POST/PUT/DELETE queries
+ - Video Lessons NodeJS (MonsterLessons): https://monsterlessons.com/project/categories/nodejs
 
 ## REST API
 
